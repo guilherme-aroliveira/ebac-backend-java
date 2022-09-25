@@ -1,0 +1,10 @@
+Algortimo da hora de acordar
+
+1. Despertador toca
+2. Abro o olho
+3. Viro para o lado direito
+4. Desligo o despertador
+5. Coloca as pernas para fora da cama
+6. Sento na cama
+7. Saio da cama
+
