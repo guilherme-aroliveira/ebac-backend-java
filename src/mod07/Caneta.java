@@ -1,9 +1,9 @@
-package mod7;
+package mod07;
 
 /**
  * @author guilherme.oliveira
  * 
- * @see mod7.Caneta
+ * @see mod07.Caneta
  * 
  * @version 1.0
  */

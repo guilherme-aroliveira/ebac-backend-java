@@ -1,4 +1,4 @@
-package mod8;
+package mod08;
 
 import java.util.Scanner;
 

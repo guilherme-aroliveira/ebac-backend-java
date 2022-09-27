@@ -1,4 +1,4 @@
-package mod4;
+package mod04;
 
 import java.util.Scanner;
 

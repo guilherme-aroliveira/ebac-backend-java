@@ -1,4 +1,4 @@
-package mod7;
+package mod07;
 
 public class Exercicio 
 {
